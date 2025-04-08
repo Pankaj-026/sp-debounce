@@ -7,7 +7,7 @@
 ## ✨ Features
 
 - ✅ Debounce any regular JavaScript function
-- ✅ Custom React hook `useSpDebounce` for buttons/events
+- ✅ Custom React hook `useDebounce` for buttons/events
 - ✅ Prevent spammy behavior like multiple form submits or clicks
 - ✅ Lightweight & easy to use
 
