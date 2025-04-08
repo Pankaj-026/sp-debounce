@@ -1,6 +1,6 @@
 import { useRef } from "react";
 
-export default function useSpDebounce(callback, delay) {
+export default function useDebounce(callback, delay) {
   const timeoutRef = useRef(null);
 
   const debouncedCallback = (...args) => {
