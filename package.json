@@ -1,6 +1,6 @@
 {
   "name": "debouncesp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal debounce utility and React hook to prevent spamming button clicks or function calls.",
   "main": "index.js",
   "types": "module",
@@ -11,7 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/Pankaj-026/sp-debounce.git"
   },
-  "keywords": [],
+  "keywords": [
+    "debounce",
+    "SP",
+    "Click",
+    "Search"
+  ],
   "author": "Pankaj Gupta",
   "license": "ISC",
   "bugs": {
